@@ -19,12 +19,31 @@ This includes trendline and target line to help HR managers track progress towar
 
 ### Technologies Used:
 
-    •	Advance Excel 👨‍💻 
+    • Advance Excel 👨‍💻 
 
-    •	Tableau 📊
+    • Tableau 📊
 
-    •	Statistics 📜
+    • Statistics 📜
     
+## STEPS OVERVIEW:
+
+1) Data subset collected from online.
+2) Understanding the Data.
+3) Loading Libraries.
+4) Data Cleaning & Finding Missing values.
+5) Data Visualization.
+
+## DATA CLEANING:
+
+• Open Dataset in Excel and Make a Copy of Dataset for security purpose.
+• Remove Duplicates.
+• Change the formatting of necessary columns.
+• Spell Check.
+• Change Case - Lower/Upper/Proper.
+• Trim the unwanted spaces.
+• Remove null values if its not going to affect the result.
+• Find and Replace.
+
 The HR Analytics Dashboard project using Tableau is designed to provide insights into key metrics and trends related to human resource management in an organization. The dashboard utilizes visualizations and data analysis techniques to help HR professionals identify patterns and make data-driven decisions. The dashboard includes several key visualizations that provide a comprehensive overview of HR-related metrics, including employee turnover rate, headcount, and employee engagement levels. The dashboard also includes metrics related to recruitment, including time-to-fill and cost-per-hire.
 
 In addition to these metrics, the dashboard provides insights into employee performance, including metrics related to training and development, performance appraisals, and career progression. These metrics can help HR professionals identify areas for improvement and develop strategies for enhancing employee engagement and productivity.
