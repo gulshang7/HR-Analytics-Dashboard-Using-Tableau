@@ -35,14 +35,37 @@ This includes trendline and target line to help HR managers track progress towar
 
 ## DATA CLEANING:
 
-• Open Dataset in Excel and Make a Copy of Dataset for security purpose.
-• Remove Duplicates.
-• Change the formatting of necessary columns.
-• Spell Check.
-• Change Case - Lower/Upper/Proper.
-• Trim the unwanted spaces.
-• Remove null values if its not going to affect the result.
-• Find and Replace.
+   - Open Dataset in Excel and Make a Copy of Dataset for security purpose.
+
+   - Remove Duplicates.
+
+   - Change the formatting of necessary columns.
+
+   - Spell Check.
+
+   - Change Case - Lower/Upper/Proper.
+
+   - Trim the unwanted spaces.
+
+   - Remove null values if its not going to affect the result.
+
+   - Find and Replace.
+
+## DASHBOARD CONTENT:
+
+    1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees and Average Age.
+    
+    2nd Sheet: Attrition by Gender (Lollipop Chart)
+    
+    3rd Sheet: Department wise Attrition (Pie Chart)
+    
+    4th Sheet: No. of Employee by Age Group (Bar Graph)
+    
+    5th Sheet: Job Satisfaction Rating (Square Chart)
+    
+    6th Sheet: Education Field wise Attrition (Vertical Bar Graph)
+    
+    7th Sheet: Education Field wise Attrition (Donut Plot)
 
 The HR Analytics Dashboard project using Tableau is designed to provide insights into key metrics and trends related to human resource management in an organization. The dashboard utilizes visualizations and data analysis techniques to help HR professionals identify patterns and make data-driven decisions. The dashboard includes several key visualizations that provide a comprehensive overview of HR-related metrics, including employee turnover rate, headcount, and employee engagement levels. The dashboard also includes metrics related to recruitment, including time-to-fill and cost-per-hire.
 
