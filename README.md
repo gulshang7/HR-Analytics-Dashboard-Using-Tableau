@@ -5,7 +5,7 @@ Lets Connect
 
 [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
-[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/WalmartRetailDataAnalysisTableauDashboard/WalmartRetailDataAnalysis?publish=yes)
+[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/HRANALYTICSDASHBOARD-ACOMPLETEEMPLOYEEDATAANALYSIS/HRDashboard?publish=yes)
 
 ## PROJECT NAME:
 
@@ -66,6 +66,10 @@ This includes trendline and target line to help HR managers track progress towar
     6th Sheet: Education Field wise Attrition (Vertical Bar Graph)
     
     7th Sheet: Education Field wise Attrition (Donut Plot)
+
+## DASHBOARD:
+
+![HR Dashboard ](https://user-images.githubusercontent.com/124501309/227755419-ff277f69-fd14-4d51-b85f-973c25a6219f.png)
 
 The HR Analytics Dashboard project using Tableau is designed to provide insights into key metrics and trends related to human resource management in an organization. The dashboard utilizes visualizations and data analysis techniques to help HR professionals identify patterns and make data-driven decisions. The dashboard includes several key visualizations that provide a comprehensive overview of HR-related metrics, including employee turnover rate, headcount, and employee engagement levels. The dashboard also includes metrics related to recruitment, including time-to-fill and cost-per-hire.
 
