@@ -53,7 +53,7 @@ This includes trendline and target line to help HR managers track progress towar
 
    - Remove null values if its not going to affect the result.
 
-   - Find and Replace.
+   - Find & Replace.
 
 ## DASHBOARD CONTENT:
 
@@ -87,7 +87,7 @@ In addition to these metrics, the dashboard provides insights into employee perf
 
 The dashboard also includes interactive features that allow users to filter and drill down into specific data sets, such as department, location, or job level. This provides HR professionals with a more detailed view of their data, allowing them to identify patterns and trends more easily.
 
-Overall, the HR Analytics Dashboard project using Tableau is an essential tool for any HR professional looking to gain deeper insights into their organization's HR data. By leveraging the power of Tableau's data visualization and analysis tools, HR professionals can make data-driven decisions that can help drive organizational success.
+Overall, HR Analytics Dashboard project using Tableau is an essential tool for any HR professional looking to gain deeper insights into their organization's HR data. By leveraging the power of Tableau's data visualization and analysis tools, HR professionals can make data-driven decisions that can help drive organizational success.
 
 ## NOTE: 
 
